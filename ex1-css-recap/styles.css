@@ -110,13 +110,17 @@ a{
 .flex{
     display: flex;
     justify-content:space-between;
-    height: 200px;
+    height: 20vh;
     align-items: center;
-    width: 200px;
+    
     
 }
 
 .flex-box{
-    flex: 1;
+    height: 15vh;
+    width: 35vh;
     background-color: brown;
+    border-radius: 15px;
+    text-align: center;
+    
 }
