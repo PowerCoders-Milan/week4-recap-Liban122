@@ -8,7 +8,6 @@
 -create 2 variables and assign a value to them
 -for variable 1 we assign rock scisor and paper
 -for variable 2 we assign it to random choice between 1-3
--create a varibale to store the result.
 - prompt the user to pick one "Rock, Paper or Scissors" choice.
 - set if condition and compare if the enter number < , > = the random generated value
 - print 
